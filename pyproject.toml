@@ -4,7 +4,7 @@ version = "0.1.0"
 description = ""
 authors = ["Debi Mishra <17590103+mdebi@users.noreply.github.com>"]
 readme = "README.md"
-packages = [{include = "me"}]
+packages = [{include = "src"}]
 
 [tool.poetry.dependencies]
 python = "^3.7"
