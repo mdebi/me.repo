@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "me-repo"
+version = "0.1.0"
+description = ""
+authors = ["Debi Mishra <17590103+mdebi@users.noreply.github.com>"]
+readme = "README.md"
+packages = [{include = "me"}]
+
+[tool.poetry.dependencies]
+python = "3.9.7"
+flake8 = "^5.0.4"
+black = "^22.10.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
