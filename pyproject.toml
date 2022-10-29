@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "me-repo"
+name = "me.repo"
 version = "0.1.0"
 description = ""
 authors = ["Debi Mishra <17590103+mdebi@users.noreply.github.com>"]
